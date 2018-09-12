@@ -2,12 +2,15 @@ public class Tester {
 
     int butter = 1;
     double curry = 2.0;
-    big fat curry;
+            double chicken = 5.0;
+    big fat
+    curry;
     hej daniel
-    
-    
 
-    sut min pik
+
+    sut min
+    pik
+
 
     vector v = new vector;
 }
