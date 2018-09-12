@@ -6,5 +6,8 @@ public class Tester {
     hej daniel
     
     
+
     sut min pik
+
+    vector v = new vector;
 }
