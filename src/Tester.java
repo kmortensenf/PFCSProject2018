@@ -4,4 +4,7 @@ public class Tester {
     double curry = 2.0;
     big fat curry;
     hej daniel
+    
+    
+    sut min pik
 }
